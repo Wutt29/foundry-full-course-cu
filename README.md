@@ -1,4 +1,4 @@
-[contributors-shield]: https://img.shields.io/github/contributors/cyfrin/foundry-full-course-cu.svg?style=for-the-badge
+ki[contributors-shield]: https://img.shields.io/github/contributors/cyfrin/foundry-full-course-cu.svg?style=for-the-badge
 [contributors-url]: https://github.com/cyfrin/foundry-full-course-cu/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/cyfrin/foundry-full-course-cu.svg?style=for-the-badge
 [forks-url]: https://github.com/cyfrin/foundry-full-course-cu/network/members
